@@ -1,0 +1,45 @@
+body{
+    background-color: darkslateblue;
+}
+
+
+
+.top-div{
+        margin: auto;
+        border: 2px solid cadetblue;
+        text-align: center;
+        background-color: darkorchid;
+        width: 700px;
+        margin-top: 150px;
+        font-style: initial;
+}
+.title{
+    
+    font-size: 50px;
+}
+
+
+#username{
+    margin-bottom: 30px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.credentials{padding: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}   
+#sign-in-button{ 
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: aliceblue;
+    background-color: black;
+    width: 7.5cm;
+    border-radius: 10px;
+    
+}
